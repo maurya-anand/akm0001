@@ -2,7 +2,7 @@
 #### I am a Bioinformatician.
 I made this project just for fun.
 
-Skills: Perl / Python /JavaScript / MySQL / Nextflow / NGS data analysis
+Skills: Perl / Python /JavaScript / PHP / MySQL / Nextflow / NGS data analysis
 
 🌱 I’m currently learning React and Django  💬 Ask me about NGS data analysis, Bioinformatics,  Perl, Python and Web development  📫 How to reach me: anandmaurya@hotmail.com 
 
