@@ -1,17 +1,19 @@
-### Hi there 👋, I am Anand.
-#### I am a Bioinformatician.
-I made this page just for fun.
+## Hi there, I am Anand.
+Thank you for checking my GitHub page! 
 
-__Skills:__ Perl / Python / JavaScript / PHP / MySQL / Nextflow / NGS data analysis
+##### I am a Bioinformatician and I am familiar with Perl, Python, JavaScript, MySQL, Django, ReactJS and NGS data analysis.
 
-🌱 I’m currently learning React and Django  
 
-💬 Ask me about NGS data analysis, Bioinformatics, Perl, Python and Web development  
+Here's are some of the web apps that I have worked on:
 
-📫 How to reach me:  
+ - Word usage:   [https://dictionary-aa43b.web.app/](https://dictionary-aa43b.web.app/) (ReactJS) 
+   
+ - Covid19 tracker using Django:   [https://covidlive.herokuapp.com/](https://covidlive.herokuapp.com/) (Python Django)
+  - Netflix-clone:   [https://netflix-react-a5dbe.web.app/](https://netflix-react-a5dbe.web.app/) (ReactJS)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/googlemessages.svg' alt='github' height='40'>](<mailto:anandmaurya@hotmail.com>)   &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anand-maurya-/)
+
+How to reach me:    &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/anand-maurya-/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/googlemessages.svg' alt='github' height='20'>](<mailto:anandmaurya@hotmail.com>) 
+
+![Profile views](https://gpvc.arturio.dev/akm0001) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akm0001&show_icons=true)
-
-![Profile views](https://gpvc.arturio.dev/akm0001)  
