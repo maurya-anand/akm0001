@@ -16,4 +16,4 @@ How to reach me:    &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@
 
 ![Profile views](https://gpvc.arturio.dev/akm0001) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akm0001&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akm0001&show_icons=true) -->
