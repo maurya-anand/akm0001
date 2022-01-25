@@ -6,7 +6,7 @@ Thank you for checking my GitHub page!
 
 Here's are some of the web apps that I have worked on:
 
- - Word usage:   [https://dictionary-aa43b.web.app/](https://dictionary-aa43b.web.app/) (ReactJS) 
+ - Word usage:   [https://dictionary-aa43b.web.app/](https://dictionary-aa43b.web.app/) (ReactJS) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/akm0001/word-search)
    
  - Covid19 tracker using Django:   [https://covidlive.herokuapp.com/](https://covidlive.herokuapp.com/) (Python Django)
   - Netflix-clone:   [https://netflix-react-a5dbe.web.app/](https://netflix-react-a5dbe.web.app/) (ReactJS)
